@@ -16,13 +16,12 @@ Este projeto consiste em um aplicativo de monitoramento ambiental que coleta e a
 ## Configuração
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu_usuario/Monitoramento-Ambiental-Python.git
+    git clone https://https://github.com/Raphael2203/PrevisaoDoTempo
     ```
 2. Instale as dependências:
     ```bash
     pip install requests
     ```
-3. Configure o arquivo `endpoints.json` com seus pontos de extremidade.
 
 ## Executando o Projeto
 1. Execute o script principal:
